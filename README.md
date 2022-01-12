@@ -1,7 +1,10 @@
-# Next.js, HardHat and TypeScript full stack dapp boilerplate
+# TypeScript, Next.js and HardHat full stack dapp boilerplate
 
+- TypeScript
 - Next.js
 - Tailwind CSS
-- TypeScript
 - HardHat
+- Ethers
 - Waffle
+- Chai
+- Mocha
